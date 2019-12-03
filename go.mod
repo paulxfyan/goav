@@ -1,3 +1,3 @@
-module github.com/xifanyan/goav
+module github.com/paulxfyan/goav
 
 go 1.12
